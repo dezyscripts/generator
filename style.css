@@ -238,7 +238,7 @@
     cursor: not-allowed;
   }
   .settings .setting input:disabled + label:before {
-    background: #4f4f6a;
+    background: #242424;
   }
   .settings .setting input:disabled + label:after {
     background: #909090;
